@@ -1,3 +1,6 @@
+Log2Ram isn't getting any support haven't looked at it for a long time.
+https://github.com/StuartIanNaylor/zram-config replaced it and maybe use that instead.
+
 # Log2Ram
 Like ramlog for systemd (on debian 8 jessie for example).
 
